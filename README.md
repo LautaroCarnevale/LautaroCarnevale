@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Lautaro Carnevale 👋</h1>
 
 <p align="center">
-  <strong>Desarrollador Full Stack & WebExtension Engineer</strong> de Córdoba, Argentina.
+  <strong>Desarrollador Full Stack</strong> de Córdoba, Argentina.
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://lautaroc.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visita%20Mi%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Visita%20Mi%20Portfolio-black?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
@@ -20,9 +20,6 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:carnevalelautaro72@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/lautaro.carnevale/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -30,14 +27,14 @@
 
 ### 🚀 Proyectos Destacados
 
+* **[San Justo Deportes](https://sanjustodeportes.com.ar)**
+  * Ecosistema digital moderno diseñado para la cobertura en tiempo real de ligas regionales. Desarrollado con una arquitectura robusta basada en NestJS, MongoDB y React + Vite. Integra múltiples sistemas para actualización instantánea de tablas de posiciones y estadísticas.
+
 * **[Viewport Simulator](https://github.com/LautaroCarnevale/mobile-viewport-simulator)** — *Aprobado y publicado en Firefox Add-ons*.
   * Simulador avanzado de viewports responsivos. Permite combinar de forma única la simulación de hardware físico (Apple/Android) con las interfaces de usuario (browser chrome) de los principales navegadores móviles (Safari, Chrome, Firefox) mediante inyección dinámica de User-Agent.
 
 * **[Mercado Libre Cupones](https://github.com/LautaroCarnevale/mercado-libre-cupones)** — *Aprobado y publicado en Firefox Add-ons*.
   * WebExtension orientada a la optimización de beneficios en tiempo real. Utiliza algoritmos de scraping multinivel defensivo ante mutaciones de DOM y una REST API externa para detectar y automatizar la aplicación de cupones de descuento.
-
-* **San Justo Deportes**
-  * Ecosistema digital robusto para el seguimiento deportivo regional en tiempo real (NestJS, MongoDB y React).
 
 ---
 
